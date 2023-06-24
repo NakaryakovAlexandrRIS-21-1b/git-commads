@@ -1,18 +1,20 @@
 # git-commads
 
-git status
-git add [files] - добавляет файлы в stage
-git commit -m "comment"
-git log / git log --oneline
-git push [rep_link] [branch_name]
+1.git status
+2.git add [files] - добавляет файлы в stage
+3.git commit -m "comment"
+4.git log / git log --oneline
+5.git push [rep_link] [branch_name]
+
 Полезное --
 
-git remote -v посмотреть ссылку на гит
-git remote add origin [rep_link] привязать пустой гид к папке
-git reset [название файла] убрать из stage
-git diff просмотр изменений, можно так же у отдельного файла
-git reset --hard отменяет все изменения
-git config --list посмотреть настройки гита
+1.git remote -v посмотреть ссылку на гит
+2.git remote add origin [rep_link] привязать пустой гид к папке
+3.git reset [название файла] убрать из stage
+4.git diff просмотр изменений, можно так же у отдельного файла
+5.git reset --hard отменяет все изменения
+6.git config --list посмотреть настройки гита
+
 Работа с ветками
 
 git branch посмотреть все ветки
